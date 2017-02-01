@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>A-210</aircraft>
+    <author>unknown</author>
+    <compatibleFSX>false</compatibleFSX>
+    <compatibleP3D>false</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description></description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>1695</prefHeight>
+    <prefWidth>1008</prefWidth>
+    <type>Aspen EFD1000 PFD</type>
+    <uuid>7997e07d-ef3b-4e3b-b257-48f2a76c8062</uuid>
+    <version>110</version>
+</pluginstrument>
